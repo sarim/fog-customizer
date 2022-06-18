@@ -21,7 +21,7 @@
       "me.sarim.FogCustomizer"
     ],
     "modmenu": [
-      "me.sarim.config.ModMenuProvider"
+      "me.sarim.config.ModMenuIntegration"
     ]
   },
   "mixins": [
